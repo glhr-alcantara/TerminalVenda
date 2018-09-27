@@ -1,2 +1,2 @@
-# TerminalVendar
+# TerminalVenda
 ...
